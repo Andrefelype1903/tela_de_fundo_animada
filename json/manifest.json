@@ -3,7 +3,7 @@
     "short_name": "Fundo animado",
     "icons": [
         {
-            "src": "./imagem/pentomin.png",
+            "src": "../imagem/pentomin.png",
             "sizes": "192x192"
         }
     ],
